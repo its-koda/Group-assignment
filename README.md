@@ -1,15 +1,15 @@
-# Git Workflow & Conflict Simulation | Simulação de Conflito no Git 🍂
+# Git Workflow & Conflict Simulation 🍂
 
 <details open>
   <summary>🌐 English</summary>
   <br />
 
-  This repository was created as a group assignment for a technical class to practice Git and GitHub collaboration workflows using GitHub Desktop.
+  A collaborative technical course repository designed to practice version control workflows and team-based development using GitHub Desktop.
 
-  ## 🐢 Objective
-  * Simulate a real-world team environment by alternating commits between contributors.
-  * Intentionally trigger a merge conflict to practice identifying and resolving code overlaps.
-  * **Note:** The base programming logic was provided by the instructor; the focus of this exercise was strictly on version control and conflict resolution.
+  ## 🐢 Objectives
+  * Simulate a real-world team environment by alternating commits across multiple contributors.
+  * Intentionally trigger and resolve merge conflicts to master conflict management strategies.
+  * **Note:** The source code foundation was provided as an instructional assignment; the core focus of this exercise was strictly version control, branching, and collaboration.
 
   ---
 </details>
@@ -18,11 +18,11 @@
   <summary>🌐 Português</summary>
   <br />
 
-  Este repositório foi criado como um trabalho em grupo para uma aula técnica, com o objetivo de praticar o fluxo de colaboração no Git e GitHub usando o GitHub Desktop.
+  Repositório colaborativo de aula técnica criado para praticar fluxos de controle de versão e desenvolvimento em equipe usando o GitHub Desktop.
 
-  ## 🐢 Objetivo
-  * Simular um ambiente de equipe real, intercalando commits entre os membros do grupo.
-  * Gerar um conflito de merge de propósito para praticar a identificação e resolução de sobreposições de código.
-  * **Nota:** A base da programação foi fornecida pelo professor; o foco deste exercício foi estritamente o controle de versão e resolução de conflitos.
+  ## 🐢 Objetivos
+  * Simular um ambiente de equipe real, intercalando commits entre diferentes contribuidores.
+  * Gerar e resolver conflitos de merge de propósito para dominar estratégias de gerenciamento de sobreposições.
+  * **Nota:** A base do código foi fornecida como atividade orientada; o foco central deste exercício foi estritamente o controle de versão, branching e colaboração.
 
 </details>
